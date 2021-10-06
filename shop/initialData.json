@@ -1,54 +1,54 @@
 [
   {
     "id" : 0,
-    "name" : "(이름)",
-    "img": "https://codingapple1.github.io/shop/dogimg/dog0.jpeg",
-    "age" : 00,
+    "name" : "이름",
+    "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
+    "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
     "passed": false
   },
 {
     "id" : 1,
-    "name" : "(이름)",
-    "img": "https://codingapple1.github.io/shop/dogimg/dog0.jpeg",
-    "age" : 00,
+    "name" : "이름",
+    "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
+    "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
     "passed": false
   },
 {
     "id" : 2,
-    "name" : "(이름)",
-    "img": "https://codingapple1.github.io/shop/dogimg/dog0.jpeg",
-    "age" : 00,
+    "name" : "이름",
+    "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
+    "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
     "passed": false
   },
 {
     "id" : 3,
-    "name" : "(이름)",
-    "img": "https://codingapple1.github.io/shop/dogimg/dog0.jpeg",
-    "age" : 00,
+    "name" : "이름",
+    "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
+    "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
     "passed": false
   },
 {
     "id" : 4,
-    "name" : "(이름)",
-    "img": "https://codingapple1.github.io/shop/dogimg/dog0.jpeg",
-    "age" : 00,
+    "name" : "이름",
+    "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
+    "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
     "passed": false
   },
 {
     "id" : 5,
-    "name" : "(이름)",
-    "img": "https://codingapple1.github.io/shop/dogimg/dog0.jpeg",
-    "age" : 00,
+    "name" : "이름",
+    "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
+    "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
     "passed": false
