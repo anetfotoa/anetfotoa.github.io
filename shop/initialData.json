@@ -1,7 +1,7 @@
 [
   {
     "id" : 0,
-    "name" : "이름",
+    "name" : "A",
     "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
     "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
@@ -10,7 +10,7 @@
   },
 {
     "id" : 1,
-    "name" : "이름",
+    "name" : "B",
     "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
     "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
@@ -19,7 +19,7 @@
   },
 {
     "id" : 2,
-    "name" : "이름",
+    "name" : "C",
     "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
     "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
@@ -28,7 +28,7 @@
   },
 {
     "id" : 3,
-    "name" : "이름",
+    "name" : "D",
     "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
     "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
@@ -37,7 +37,7 @@
   },
 {
     "id" : 4,
-    "name" : "이름",
+    "name" : "E",
     "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
     "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
@@ -46,7 +46,7 @@
   },
 {
     "id" : 5,
-    "name" : "이름",
+    "name" : "F",
     "img": "https://anetfotoa.github.io/shop/dogimg/dog0.jpeg",
     "age" : 20,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
