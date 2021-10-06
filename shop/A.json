@@ -2,7 +2,7 @@
   {
     "id" : 0,
     "name" : "(이름)",
-    "img": "https://React.github.io/shop/pro1.jpg",
+    "img": "https://anetfotoa.github.io/shop/pro1.jpg",
     "age" : 00,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
@@ -11,7 +11,7 @@
   {
     "id" : 1,
     "name" : "(이름)",
-    "img": "https://React.github.io/shop/pro2.png",
+    "img": "https://anetfotoa.github.io/shop/pro1.jpg",
     "age" : 00,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 20,
@@ -20,7 +20,7 @@
   {
     "id" : 2,
     "name" : "(이름)",
-    "img": "https://React.github.io/shop/pro3.jpg",
+    "img": "https://anetofoa.github.io/shop/pro3.jpg",
     "age" : 00,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
@@ -29,7 +29,7 @@
   {
     "id" : 3,
     "name" : "(이름)",
-    "img": "https://React.github.io/shop/pro4.jpg",
+    "img": "https://anetfotoa.github.io/shop/pro4.jpg",
     "age" : 00,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
@@ -38,7 +38,7 @@
   {
     "id" : 4,
     "name" : "(이름)",
-    "img": "https://React.github.io/shop/pro5.jpg",
+    "img": "https://anetfotoa.github.io/shop/pro5.jpg",
     "age" : 00,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
@@ -47,7 +47,7 @@
   {
     "id" : 5,
     "name" : "(이름)",
-    "img": "https://React.github.io/shop/pro1.jpg",
+    "img": "https://anetfotoa.github.io/shop/pro1.jpg",
     "age" : 00,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 25,
