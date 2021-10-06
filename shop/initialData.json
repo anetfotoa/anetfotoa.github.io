@@ -4,7 +4,7 @@
     "name" : "재롱이",
     "img": "https://codingapple1.github.io/shop/dogimg/dog0.jpeg",
     "age" : 2,
-    "things" : ["접종완료", "중성화", "변기물 알아서 내림"],
+    "things" : ["접종완료X", "중성화X", "변기물 알아서 내림X"],
     "days" : 25,
     "passed": false
   },
