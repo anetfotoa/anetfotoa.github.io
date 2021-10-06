@@ -11,7 +11,7 @@
   {
     "id" : 1,
     "name" : "(이름)",
-    "img": "https://React.github.io/shop/pro2.jpg",
+    "img": "https://React.github.io/shop/pro2.png",
     "age" : 00,
     "things" : ["성별", "방탈출 횟수", "MBTI"],
     "days" : 20,
