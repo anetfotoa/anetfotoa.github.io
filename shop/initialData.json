@@ -13,7 +13,7 @@
     "name" : "바둑",
     "img": "https://codingapple1.github.io/shop/dogimg/dog1.jpeg",
     "age" : 6,
-    "things" : ["밥안먹음", "산책좋아함", "관절유의"],
+    "things" : ["밥안먹음X", "산책좋아함X", "관절유의X"],
     "days" : 11,
     "passed": false
   },
